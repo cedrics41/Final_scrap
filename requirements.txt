@@ -5,4 +5,3 @@ wordcloud
 pybase64
 pandas
 altair
---upgrade pip
